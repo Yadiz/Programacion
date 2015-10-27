@@ -13,5 +13,6 @@ public class Factorial{
   }
 }
 }
-sfsfsf
-f
+public factorial(){
+  System.out.println("Hey");
+}
