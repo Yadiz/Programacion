@@ -18,8 +18,3 @@ public factorial(){
 }
 
 //Haciendo pruebas para trabajar en equipo
-
-public sumaa(int a, intb){
-  a + b
-  return b
-}
