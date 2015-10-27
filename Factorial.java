@@ -16,3 +16,7 @@ public class Factorial{
 public factorial(){
   System.out.println("Hey");
 }
+public sumaa(int a, intb){
+  a + b
+  return b
+}
